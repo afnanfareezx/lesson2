@@ -3,7 +3,7 @@
     Private Sub BtnPapar_Click(sender As Object, e As EventArgs) Handles BtnPapar.Click
         Dim strNamaHari(6) As String
         Dim strOutput As String
-        strNamaHari(0) = "Ahad"
+        strNamaHari(0) = "Ahadd"
         strNamaHari(1) = "Isnin"
         strNamaHari(2) = "Selasa"
         strNamaHari(3) = "Rabu"
