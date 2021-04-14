@@ -7,7 +7,7 @@
         strNamaHari(1) = "Isnin"
         strNamaHari(2) = "Selasa"
         strNamaHari(3) = "Rabu"
-        strNamaHari(4) = "Khamis"
+        strNamaHari(4) = "Khamiss"
         strNamaHari(5) = "Jumaat"
         strNamaHari(6) = "Sabtu"
 
