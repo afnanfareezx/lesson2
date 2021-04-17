@@ -49,7 +49,7 @@ Partial Class Form1
         '
         Me.lstBox.FormattingEnabled = True
         Me.lstBox.ItemHeight = 15
-        Me.lstBox.Location = New System.Drawing.Point(199, 102)
+        Me.lstBox.Location = New System.Drawing.Point(285, 94)
         Me.lstBox.Name = "lstBox"
         Me.lstBox.Size = New System.Drawing.Size(127, 154)
         Me.lstBox.TabIndex = 2
